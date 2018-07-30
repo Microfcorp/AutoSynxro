@@ -1,0 +1,7 @@
+c:\users\лехап\documents\visual studio 2015\Projects\Synchro\Synchro\bin\Debug\Synchro.exe
+c:\users\лехап\documents\visual studio 2015\Projects\Synchro\Synchro\bin\Debug\Synchro.pdb
+c:\users\лехап\documents\visual studio 2015\Projects\Synchro\Synchro\obj\Debug\Synchro.csprojResolveAssemblyReference.cache
+c:\users\лехап\documents\visual studio 2015\Projects\Synchro\Synchro\obj\Debug\Synchro.Service1.resources
+c:\users\лехап\documents\visual studio 2015\Projects\Synchro\Synchro\obj\Debug\Synchro.csproj.GenerateResource.Cache
+c:\users\лехап\documents\visual studio 2015\Projects\Synchro\Synchro\obj\Debug\Synchro.exe
+c:\users\лехап\documents\visual studio 2015\Projects\Synchro\Synchro\obj\Debug\Synchro.pdb
